@@ -1,0 +1,10 @@
+D:\PROJECTDED\Pominki\Pominki\Pominki\bin\Debug\Pominki.exe.config
+D:\PROJECTDED\Pominki\Pominki\Pominki\bin\Debug\Pominki.exe
+D:\PROJECTDED\Pominki\Pominki\Pominki\bin\Debug\Pominki.pdb
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.csprojAssemblyReference.cache
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.Form1.resources
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.Properties.Resources.resources
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.csproj.GenerateResource.cache
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.csproj.CoreCompileInputs.cache
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.exe
+D:\PROJECTDED\Pominki\Pominki\Pominki\obj\Debug\Pominki.pdb
